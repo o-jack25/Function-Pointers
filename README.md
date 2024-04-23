@@ -1,4 +1,4 @@
-# Project1
+# Function Pointers
 
 This lab I completed is to show how function pointers work and how it can greatly simplify code.
 
